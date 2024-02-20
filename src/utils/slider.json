@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Mannat house",
+      "price": "3,950,000",
+      "detail": "Land's End, Bandstand, Bandra (West), Mumbai, Maharashtra",
+      "image": "./r1.png"
+    },
+    {
+      "name": "Bajaj Mansion",
+      "price": "5,510,000",
+      "detail": "Bajaj Mansion, Bandra(West), Wardha, Maharastra",
+      "image": "./r2.png"
+    },
+    {
+      "name": "Gupta Mansion",
+      "price": "2,977,550",
+      "detail": "Gupta Mansion, Kolkata, West Bengal",
+      "image": "./r3.png"
+    },
+    {
+      "name": "Aliva Priva Jardin",
+      "price": "3,950,900",
+      "detail": "Shimpoli Rd, Borivali (west), Mumbai, Maharastra",
+      "image": "./r1.png"
+    },
+    {
+      "name": "Asatti Garden City",
+      "price": "2,990,990",
+      "detail": "48 Venkatachala Mudali St, Periamet, Chennai, Tamilnadu",
+      "image": "./r2.png"
+    },
+    {
+      "name": "J.K. House",
+      "price": "1,950,900",
+      "detail": "67/68, Sagar Bonanza, Jv Road, Khot Lane, Ghatkopar (w), Mumbai, Maharastra",
+      "image": "./r3.png"
+    }
+  ]
+  
